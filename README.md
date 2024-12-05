@@ -1,3 +1,3 @@
 # ansible
 
-This is my awwsom Ansible reposetory!
+This is my awwsom Ansible repository!
